@@ -1,6 +1,6 @@
 # Breno Amorim
 
-Olá! Meu nome é Breno, prazer em conhecê-lo. Este é meu github e informações de contatos. Tenho 22 anos sou um estudante na área de tecnologia, em busca aprender e evoluir minhas habilidades técnicas e profissionais.
+Olá! Meu nome é Breno, prazer em conhecê-lo. Este é meu github e informações de contatos.  Sou um estudante na área de tecnologia, em busca aprender e evoluir minhas habilidades técnicas e profissionais.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-amorim-costa/) 
